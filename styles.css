@@ -99,11 +99,11 @@ h2 {
   padding: 12px 30px;
   margin: 6px;
   background: #000;
-  border-radius: 6;
+  border-radius: 6px;
   text-decoration: none;
   font-family: 'Dancing Script', cursive;
   font-weight: 700;
-  font-size: 18px;
+  font-size: 22px;
 }
 
 .slideshow {
