@@ -109,7 +109,7 @@ p {
           justify-content: center;
 }
 
-@media screen and (max-width: 720px){
+@media screen and (max-width: 420px){
 .btn-container {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
