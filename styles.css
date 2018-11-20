@@ -15,6 +15,10 @@ p {
   margin-bottom: 60px;
 }
 
+a {
+  text-decoration: none;
+}
+
 .container {
   width: 60%;
   margin: 0 auto;
@@ -128,9 +132,9 @@ p {
   font-size: 22px;
   width: 50%;
   text-align: center;
-  -webkit-transition: background 500ms; /* Safari */
-    transition: width 500ms;
 }
+
+
 
 .btn:hover {
   background: rgba(10, 175, 92, 0.7);
