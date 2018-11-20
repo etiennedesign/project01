@@ -113,12 +113,6 @@ a {
           justify-content: center;
 }
 
-@media screen and (max-width: 420px){
-.btn-container {
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-}
-}
 
 .btn{
   color: #fff;
@@ -631,4 +625,16 @@ a {
     -webkit-transform: scale(1);
             transform: scale(1);
   }
+}
+
+@media screen and (max-width: 480px){
+.btn-container {
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
 }
