@@ -11,6 +11,10 @@ h1 {
   font-size: 4em;
 }
 
+h2 {
+  margin-top: 80px
+}
+
 p {
   line-height: 1.8;
 }
